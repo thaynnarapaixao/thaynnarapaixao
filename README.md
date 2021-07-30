@@ -1,5 +1,14 @@
-### Hi there 👋
+### Olá, Eu sou Thaynnara Paixão 
+- :computer: Analista de TI
+- :books: Explorando novas tecnologias 
+<!--- :books: Aprendendo Cloud e Zabbix-->
 
+<div>
+  <a href="https://github.com/Thaynnara Paixao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynnarapaixao&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+</div>
+<!--
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlBGZFeQZ5Z2c--_nm99gjBhZdorIi0izTGeUfgfJQwhy40-bLUa7QPwKVX0VauXW3xCDV_kU2_8&usqp=CAU" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 <!--
 **thaynnarapaixao/thaynnarapaixao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
