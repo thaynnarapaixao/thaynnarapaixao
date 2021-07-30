@@ -4,9 +4,16 @@
 <!--- :books: Aprendendo Cloud e Zabbix-->
 
 <div>
-  <a href="https://github.com/Thaynnara Paixao">
+  <a href="https://github.com/ThaynnaraPaixao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynnarapaixao&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  
+    
 </div>
+  
+  <a href="https://github.com/thaynnarapaixao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynnarapaixao&show_icons=true&hide_border=true&&count_private=true&      include_all_commits=true" />
+  </a>
+ 
 <!--
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlBGZFeQZ5Z2c--_nm99gjBhZdorIi0izTGeUfgfJQwhy40-bLUa7QPwKVX0VauXW3xCDV_kU2_8&usqp=CAU" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">-->
 
