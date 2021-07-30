@@ -15,7 +15,7 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://store-images.s-microsoft.com/image/apps.2274.3cf2166c-4134-4d3d-956d-9f14f6a979dd.c1a4156b-ce84-4433-96fc-8cc73e10b467.fe0b06e0-00dd-427d-a155-2db405e63ac2.png"></code>
-<code><img height="30" src=" https://miro.medium.com/max/400/0*emIINniCsfbfLxbq"></code>
+<code><img height="30" src="https://logos-world.net/wp-content/uploads/2021/05/Azure-Logo.png"></code>
 
 
   
