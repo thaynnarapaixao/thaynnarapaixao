@@ -22,7 +22,10 @@
 <code><img height="30" src="https://logos-world.net/wp-content/uploads/2021/05/Azure-Logo.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GYBhhR1FVDADZDoEgg2vWzDo3xqXGCWjZDdyEIr0jgXSvVUViA6fpcJ1Comn8SN6ByvPcjchfCg&usqp=CAU"></code>
 
-
+ <!--
+[![Linkedin: Thaynnara Paixão](https://img.shields.io/badge/-Thaynnara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaynnara-paix%C3%A3o-5641a2b0/)](https://www.linkedin.com/in/thaynnara-paix%C3%A3o-5641a2b0/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)-->
   
 <!--
 **thaynnarapaixao/thaynnarapaixao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
